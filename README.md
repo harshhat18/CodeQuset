@@ -1,7 +1,6 @@
 # CodeQuest: Online Coding Platform
 
-(./public/logo.png)
-
+[![CodeQuest Logo](./images/logo.png)](https://your-login-page-url](https://code-quset.vercel.app/))
 ## 🚀 Overview
 
 **CodeQuest** is a dynamic and interactive online coding platform where users can practice Data Structures and Algorithms (DSA) questions. Built with modern web technologies, CodeQuest provides a seamless and engaging coding experience. The platform supports user authentication, problem solving, and real-time feedback, making it an ideal choice for coding enthusiasts and learners.
