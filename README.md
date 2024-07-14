@@ -1,6 +1,6 @@
 # CodeQuest: Online Coding Platform
 
-![CodeQuest Logo](link_to_your_logo.png)
+![CodeQuest Logo](./public/logo.png)
 
 ## 🚀 Overview
 
